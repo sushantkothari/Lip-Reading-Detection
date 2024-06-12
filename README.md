@@ -47,6 +47,9 @@ git clone https://github.com/yourusername/lip-reading-detection.git
 cd lip-reading-detection
 ```
 2. Install the required dependencies:
+```
+pip install tensorflow opencv matplotlib numpy imagio
+```
 
 ## Usage
 
