@@ -84,16 +84,6 @@ The model is trained using:
 - Learning rate scheduling
 - Custom callbacks for checkpointing and example generation
 
-## Results
-
-The model achieves the following performance on the test set:
-- Mean Accuracy: [Insert your mean accuracy]
-- Mean Precision: [Insert your mean precision]
-- Mean Recall: [Insert your mean recall]
-- Mean F1 Score: [Insert your mean F1 score]
-
-[Include any graphs or visualizations of the results]
-
 ## Evaluation Metrics
 
 The model's performance is evaluated using:
