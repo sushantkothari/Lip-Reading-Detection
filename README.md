@@ -43,7 +43,7 @@ Lip reading detection is a challenging task in computer vision and speech recogn
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/lip-reading-detection.git
+git clone https://github.com/sushantkothari/lip-reading-detection.git
 cd lip-reading-detection
 ```
 2. Install the required dependencies:
