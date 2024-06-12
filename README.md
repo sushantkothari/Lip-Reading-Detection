@@ -11,7 +11,6 @@ This project implements a deep learning model for lip reading detection using Te
 - [Data Pipeline](#data-pipeline)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
-- [Results](#results)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
